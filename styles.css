@@ -1,0 +1,9 @@
+.image-container {
+  margin: 0px 5px 10px 50px;
+}
+
+.image-container img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
